@@ -1,4 +1,4 @@
-# Medicine Tracker App - Notification Service
+# MediPoint App
 
 A comprehensive React Native Expo app for tracking medications with intelligent push notifications.
 
